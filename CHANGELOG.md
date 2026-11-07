@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.1 (2026-11-08)
+
+- Panel Kondisi air tambak di Beranda kini ringkas: Suhu, pH, dan Salinitas berdampingan dalam satu kartu berwarna.
+- Tiap parameter punya warna sendiri, juga di grafik Riwayat.
+- Data lama tetap berwarna, ditandai jam terakhir di bagian atas panel.
+- Satu kartu sorotan berwarna di Riwayat, Perawatan, dan Akun.
+- Navbar baru: tab aktif ditandai garis kecil di atas ikon.
+
+Update langsung di atas v0.2.0, tidak perlu uninstall.
 ## v0.2.0 (2026-11-08)
 
 Tampilan baru di seluruh aplikasi.
