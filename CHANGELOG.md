@@ -1,0 +1,44 @@
+# Changelog
+
+Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
+
+## v0.2.0 (2026-11-08)
+
+Tampilan baru di seluruh aplikasi.
+
+- Desain baru: header lebih ringkas, kartu lebih rapi, warna dan ikon seragam.
+- Geser layar ke kiri atau kanan untuk pindah tab. Navbar ikut bergerak mengikuti jari.
+- Perpindahan tab, buka tutup layar, dan lembar bawah lebih halus.
+- Panel Suhu, pH, dan Salinitas baru: angka besar, bar batas aman, dan status Normal, Waspada, atau Kritis.
+- Tanda jelas saat data sudah lama atau alat terputus.
+- Filter Riwayat dan Kotak masuk lebih ringkas.
+- Halaman masuk baru dan splash screen yang tidak terpotong.
+- Bagian Tentang aplikasi di tab Akun: pengembang, versi, dan tautan situs TambakCare.
+- Alat berstatus Prioritas mendapat masa tenggang 7 hari setelah langganan habis.
+- Perbaikan stabilitas dan keamanan.
+
+Update langsung di atas v0.1.3, tidak perlu uninstall.
+
+## v0.1.3 (2026-11-07)
+
+- Tombol Tukar kode voucher kini selalu ada di halaman Settings, bagian Akun (khusus Admin).
+- Kode sewa baru bisa ditukar walau akun belum punya alat.
+- Perbaikan tulisan satuan suhu (sebelumnya tampil Â°C).
+
+## v0.1.2 (2026-11-07)
+
+- Dukungan multi pemilik tambak: daftar alat, batas parameter, dan jadwal perawatan kini mengikuti tambak masing masing.
+- Aplikasi otomatis memilih alat milik akun sendiri.
+- Aplikasi tetap aman saat alat dicabut atau akun belum punya alat.
+- Peringatan anomali tidak dikirim berulang.
+- Perbaikan stabilitas dan keamanan.
+
+## v0.1.1 (2026-11-07)
+
+- Ikon baru (Atlas), sama dengan versi web.
+- Cek update otomatis saat aplikasi dibuka.
+- APK kini ditandatangani kunci rilis resmi. Pengguna v0.1.0 perlu uninstall dulu sebelum memasang versi ini.
+
+## v0.1.0 (2026-11-07)
+
+- Rilis pertama aplikasi Android TambakCare.
