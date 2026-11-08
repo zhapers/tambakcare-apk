@@ -2,6 +2,14 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.15 (2026-11-09)
+
+- Tombol sakelar bisa dikustomisasi: tombol "Ubah nama tombol" kini bernama "Kustomisasi", dan selain nama kamu bisa memilih ikon untuk tiap sakelar (Daya, Lampu, Kincir air, Pompa air, Aliran air, Pemanas, Blower, Colokan).
+- Header kini berwarna putih dengan tulisan TAMBAKCARE yang sama seperti di web. Lonceng dan avatar berwarna biru.
+- Header dan menu bawah punya garis tepi biru dengan cahaya yang bergerak pelan. Garisnya diam bila animasi dimatikan di pengaturan HP.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.14 (2026-11-09)
 
 - Akun Admin kini bisa menyalakan dan mematikan Sakelar 1 dan Sakelar 2 di kartu Kontrol alat. Tulisan "Kontrol tombol hanya untuk pemilik tambak" tidak muncul lagi untuk Admin.
