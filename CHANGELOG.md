@@ -2,6 +2,13 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.9 (2026-11-08)
+
+- Menu bawah Superadmin tidak sumpek lagi: kalau tab tidak muat, menu bisa digeser ke samping. Tab yang aktif otomatis terlihat, dan ada bayangan tipis di tepi sebagai tanda masih ada menu lain.
+- File installer update otomatis dihapus saat aplikasi versi baru dibuka, jadi tidak memakan memori HP.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.8 (2026-11-08)
 
 - Mode Superadmin: tab baru Superadmin berisi pilihan pemilik tambak, pemantauan semua Admin (alat online, status, peringatan 24 jam, perawatan, masa sewa) dengan tombol Buka dashboard, dan semua menu admin.
