@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.14 (2026-11-09)
+
+- Akun Admin kini bisa menyalakan dan mematikan Sakelar 1 dan Sakelar 2 di kartu Kontrol alat. Tulisan "Kontrol tombol hanya untuk pemilik tambak" tidak muncul lagi untuk Admin.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.13 (2026-11-09)
 
 - Kartu Kontrol alat kini tampil tepat di bawah panel Kondisi air tambak, jadi tombol Sakelar 1 dan Sakelar 2 lebih cepat dijangkau tanpa scroll jauh.
