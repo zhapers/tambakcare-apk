@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.13 (2026-11-09)
+
+- Kartu Kontrol alat kini tampil tepat di bawah panel Kondisi air tambak, jadi tombol Sakelar 1 dan Sakelar 2 lebih cepat dijangkau tanpa scroll jauh.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.12 (2026-11-09)
 
 - Kotak Suhu di panel Kondisi air tambak tidak mengecil sendiri lagi. Ketiga kotak (Suhu, pH, Salinitas) kini sama tinggi dan angkanya sama besar. Suhu di kotak tampil satu angka desimal.
