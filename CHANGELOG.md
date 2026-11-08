@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.6 (2026-11-08)
+
+- Menu Admin baru: Kelola pengguna (buat, aktifkan/nonaktifkan, hapus; Superadmin juga bisa ubah peran, ganti password, prioritas, dan pindah pemilik).
+- Akun alat: buat dan hapus login alat. Ganti password akun alat khusus Superadmin.
+- Voucher (Superadmin): buat kode sewa baru atau perpanjang, salin kode, dan batalkan voucher.
+- Kelola alat: tombol Lepas perangkat untuk alat yang sewanya sudah terkunci.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.5 (2026-11-08)
 
 - Batas aman sensor kini bisa diatur per alat. Pilih "Semua alat (default)" atau satu alat, lalu pakai tombol "Pakai batas default" untuk kembali ke batas bersama.
