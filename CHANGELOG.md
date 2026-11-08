@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.10 (2026-11-09)
+
+- Akun Admin kini punya tab Admin sendiri di menu bawah, berisi Batas aman sensor, Telegram & backup, Kelola jadwal perawatan, dan Kelola pengguna. Menu bawah bisa digeser ke samping.
+- Aplikasi tidak lagi langsung menawarkan update saat dibuka. Kalau ada versi baru, muncul pemberitahuan kecil berisi ringkasan isi update.
+- Tentang aplikasi punya tombol Cek update. Tombol Update sekarang hanya muncul kalau ada versi baru.
+- Setelah update, catatan perubahan lengkap tampil sekali saat aplikasi pertama kali dibuka.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.9 (2026-11-08)
 
 - Menu bawah Superadmin tidak sumpek lagi: kalau tab tidak muat, menu bisa digeser ke samping. Tab yang aktif otomatis terlihat, dan ada bayangan tipis di tepi sebagai tanda masih ada menu lain.
