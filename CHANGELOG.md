@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.12 (2026-11-09)
+
+- Kotak Suhu di panel Kondisi air tambak tidak mengecil sendiri lagi. Ketiga kotak (Suhu, pH, Salinitas) kini sama tinggi dan angkanya sama besar. Suhu di kotak tampil satu angka desimal.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.11 (2026-11-09)
 
 - Aplikasi sekarang terhubung ke alamat web baru `www.tambakcare.my.id`, termasuk link situs web di Tentang aplikasi.
