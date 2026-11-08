@@ -2,6 +2,16 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.5 (2026-11-08)
+
+- Batas aman sensor kini bisa diatur per alat. Pilih "Semua alat (default)" atau satu alat, lalu pakai tombol "Pakai batas default" untuk kembali ke batas bersama.
+- Jam tampil anomali punya form sendiri dan berlaku untuk semua alat.
+- Status, peringatan, dan backup memakai batas alat yang bersangkutan.
+- Nama tombol relay kini tersimpan per alat.
+- Keterangan cakupan di saluran notifikasi, rekap Telegram, dan jadwal perawatan diperjelas.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.4 (2026-11-08)
 
 - Teks kecil di label status dan kartu berwarna kini lebih mudah dibaca.
