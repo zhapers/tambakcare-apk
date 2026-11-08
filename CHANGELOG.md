@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.11 (2026-11-09)
+
+- Aplikasi sekarang terhubung ke alamat web baru `www.tambakcare.my.id`, termasuk link situs web di Tentang aplikasi.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.10 (2026-11-09)
 
 - Akun Admin kini punya tab Admin sendiri di menu bawah, berisi Batas aman sensor, Telegram & backup, Kelola jadwal perawatan, dan Kelola pengguna. Menu bawah bisa digeser ke samping.
