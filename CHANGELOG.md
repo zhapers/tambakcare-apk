@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.7 (2026-11-08)
+
+- Menu Akun alat sekarang khusus Superadmin, sama seperti web. Admin cukup menukar kode voucher, lalu alatnya muncul sendiri.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.6 (2026-11-08)
 
 - Menu Admin baru: Kelola pengguna (buat, aktifkan/nonaktifkan, hapus; Superadmin juga bisa ubah peran, ganti password, prioritas, dan pindah pemilik).
