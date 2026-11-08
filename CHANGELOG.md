@@ -2,6 +2,16 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.3 (2026-11-08)
+
+- Menu Admin baru di tab Akun, hanya untuk admin dan superadmin:
+  - Batas aman sensor (Suhu, pH, Salinitas) beserta riwayat perubahannya.
+  - Pengaturan Telegram dan kirim backup data sekarang ke Discord, Telegram, atau Email.
+  - Kelola jadwal perawatan: tambah, ubah, hapus.
+  - Kelola alat (superadmin): aktifkan atau nonaktifkan alat.
+- Jadwal perawatan bisa ditujukan ke pekerja tertentu (diatur dari web). Pekerja hanya melihat jadwal umum dan jadwal untuk dirinya, ditandai "Untuk: kamu".
+
+Update dari dalam aplikasi (v0.2.2) atau pasang langsung di atas versi lama, tidak perlu uninstall.
 ## v0.2.2 (2026-11-08)
 
 - Update aplikasi kini diunduh langsung di dalam aplikasi, tanpa membuka browser. Tinggal tekan Install di akhir.
