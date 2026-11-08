@@ -2,6 +2,16 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.4 (2026-11-08)
+
+- Teks kecil di label status dan kartu berwarna kini lebih mudah dibaca.
+- Saat alat terputus, panel sensor menulis jelas "Alat terputus". Jam data terakhir tetap ada di kartu alat.
+- Nama alat yang panjang dipotong rapi dengan tanda titik tiga.
+- Ikon pemberitahuan di halaman masuk diperbaiki.
+- Jalur data lama sebelum pembaruan multi pemilik dihapus. Akun yang belum terhubung ke tambak kini mendapat pesan jelas.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.3 (2026-11-08)
 
 - Menu Admin baru di tab Akun, hanya untuk admin dan superadmin:
