@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.17 (2026-11-09)
+
+- Aplikasi lebih ringan dan lancar di detik-detik awal setelah dibuka. Pekerjaan yang tidak mendesak, seperti cek update dan setup notifikasi, kini ditunda sebentar.
+- Garis biru di header dan menu bawah lebih hemat baterai dan tidak bikin HP berat.
+- Beranda tidak lagi menggambar ulang seluruh layar setiap ada data sensor baru.
+- Riwayat dimuat lebih cepat dan diperbarui otomatis tiap 1 menit. Tarik ke bawah untuk memuat ulang.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.16 (2026-11-09)
 
 - Notifikasi peringatan air kini tetap masuk walau aplikasi ditutup. Judulnya langsung menunjukkan status: 🔴 Kritis, 🟡 Waspada, 📴 Offline, atau ✅ Normal, beserta nama alat. Satu akun di beberapa HP juga semua dapat.
