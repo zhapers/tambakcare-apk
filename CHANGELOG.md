@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.18 (2026-11-09)
+
+- Laporan dan peringatan lewat Email kini terkirim lagi. Sebelumnya email dari aplikasi bisa gagal karena alamat penerima tidak terbaca.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.17 (2026-11-09)
 
 - Aplikasi lebih ringan dan lancar di detik-detik awal setelah dibuka. Pekerjaan yang tidak mendesak, seperti cek update dan setup notifikasi, kini ditunda sebentar.
