@@ -2,6 +2,14 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.16 (2026-11-09)
+
+- Notifikasi peringatan air kini tetap masuk walau aplikasi ditutup. Judulnya langsung menunjukkan status: 🔴 Kritis, 🟡 Waspada, 📴 Offline, atau ✅ Normal, beserta nama alat. Satu akun di beberapa HP juga semua dapat.
+- Kartu Saluran notifikasi lebih rapi: cukup ketuk Telegram, Email, atau Discord untuk membuka halamannya sendiri, lengkap dengan tombol Simpan dan Kirim tes. Token, ID obrolan, email, dan webhook tidak lagi terlihat di kartu.
+- Isi pesan notifikasi dan backup ke Telegram, Discord, dan Email kini lebih singkat, rapi, dan mudah dibaca.
+
+Kalau notifikasi telat masuk, izinkan TambakCare berjalan tanpa batasan baterai di pengaturan HP. Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.15 (2026-11-09)
 
 - Tombol sakelar bisa dikustomisasi: tombol "Ubah nama tombol" kini bernama "Kustomisasi", dan selain nama kamu bisa memilih ikon untuk tiap sakelar (Daya, Lampu, Kincir air, Pompa air, Aliran air, Pemanas, Blower, Colokan).
