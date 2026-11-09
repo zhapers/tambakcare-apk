@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.20 (2026-11-09)
+
+- Info alat di atas Beranda kini tampil dalam satu card ringkas yang lebih menarik: nama alat dan status tersambung jadi satu, dengan warna hijau saat tersambung dan abu-abu saat terputus.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.19 (2026-11-09)
 
 - Beranda lebih fokus ke kondisi air: card alat di atas kini berupa strip tipis berisi nama alat dan status tersambung.
