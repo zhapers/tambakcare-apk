@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.21 (2026-11-09)
+
+- Aplikasi tidak lagi sering melempar kembali ke Beranda saat kamu sedang di menu lain, misalnya setelah kembali dari aplikasi lain atau menyalakan layar.
+- Filter Riwayat kini berada dalam satu card agar lebih jelas terlihat.
+- Label jam di Grafik gabungan tidak lagi mepet ke tepi, dan jaraknya kini rata.
+- Card Anomali lebih ringkas: tombol CSV, Excel, dan TXT kini satu baris.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.20 (2026-11-09)
 
 - Info alat di atas Beranda kini tampil dalam satu card ringkas yang lebih menarik: nama alat dan status tersambung jadi satu, dengan warna hijau saat tersambung dan abu-abu saat terputus.
