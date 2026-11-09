@@ -2,6 +2,14 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.24 (2026-11-09)
+
+- Tombol Excel di Cadangan data tidak terpotong lagi.
+- Card Metode pencegahan lebih ringkas dan mudah dipahami: pilih masalahnya (misalnya Suhu tinggi atau pH rendah), lihat alasan singkat dan 2 langkah utama, langkah lain bisa dibuka lewat "Lihat langkah lain".
+- Batas yang tertulis di card kini sesuai dengan batas yang kamu atur di aplikasi.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.23 (2026-11-09)
 
 - Tombol WhatsApp di Cadangan data dihapus kembali. Tampilan sama seperti v0.2.21.
