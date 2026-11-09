@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.19 (2026-11-09)
+
+- Beranda lebih fokus ke kondisi air: card alat di atas kini berupa strip tipis berisi nama alat dan status tersambung.
+- Card air berganti nama menjadi "Kondisi Air Saat Ini" dan menampilkan waktu cek terakhir. Kalau data terakhir bukan dari hari ini, tanggalnya ikut tampil.
+- Riwayat lebih ringkas: filter Alat, Parameter, dan Status kini satu baris, sehingga grafik gabungan terlihat utuh.
+- Card Anomali lebih ringkas dan mudah dibaca.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.18 (2026-11-09)
 
 - Laporan dan peringatan lewat Email kini terkirim lagi. Sebelumnya email dari aplikasi bisa gagal karena alamat penerima tidak terbaca.
