@@ -2,6 +2,13 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.25 (2026-11-09)
+
+- Isi Metode pencegahan diperbarui mengikuti rujukan budidaya tambak yang terpercaya. Langkah yang tidak ada dasarnya dihapus.
+- Ada peringatan penting baru: pakai kapur pertanian (bukan kapur tohor), selisih suhu air baru maksimal 3°C, pH naik di sore hari itu wajar, dan jangan pakai air sumur untuk mengencerkan.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.24 (2026-11-09)
 
 - Tombol Excel di Cadangan data tidak terpotong lagi.
