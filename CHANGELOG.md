@@ -2,6 +2,12 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.23 (2026-11-09)
+
+- Tombol WhatsApp di Cadangan data dihapus kembali. Tampilan sama seperti v0.2.21.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.22 (2026-11-09)
 
 - Rekapan data kini bisa dibagikan ke WhatsApp: buka Pengaturan > Cadangan data, pilih rentang, tekan WhatsApp, lalu pilih kontak atau grup. File CSV terkirim bersama pesan singkat.
