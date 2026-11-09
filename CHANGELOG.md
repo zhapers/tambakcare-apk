@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.26 (2026-11-09)
+
+- Sakelar bisa diatur otomatis. Ketuk ikon jam di samping sakelar, lalu pilih:
+  - Jadwal: menyala di antara jam Nyala dan jam Mati (WITA), boleh lewat tengah malam.
+  - Kondisi: menyala saat suhu, pH, atau salinitas lebih dari atau kurang dari angka tertentu, lalu mati saat kembali normal.
+- Aturan dijalankan oleh alat, jadi tetap jalan walau aplikasi ditutup. Alat perlu firmware terbaru.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.25 (2026-11-09)
 
 - Isi Metode pencegahan diperbarui mengikuti rujukan budidaya tambak yang terpercaya. Langkah yang tidak ada dasarnya dihapus.
