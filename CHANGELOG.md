@@ -2,6 +2,16 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.27 (2026-11-11)
+
+- Aturan otomatis satu sakelar tidak lagi bisa ikut terhapus. Ikon jam baru bisa ditekan setelah aturan selesai dimuat.
+- Kalau masa sewa habis, tombol dan aturan otomatis dikunci dengan keterangan "Masa sewa habis". Data dan riwayat tetap bisa dilihat.
+- Angka pada aturan Kondisi dibatasi antara -50 dan 1000. Ada keterangan baru kalau alat dinonaktifkan saat aturan otomatis aktif.
+- Password akun baru dan password pengganti minimal 8 karakter.
+- Email peringatan sekarang dikirim dari server. Notifikasi di HP tetap muncul seperti biasa.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.26 (2026-11-09)
 
 - Sakelar bisa diatur otomatis. Ketuk ikon jam di samping sakelar, lalu pilih:
