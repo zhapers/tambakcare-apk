@@ -2,6 +2,15 @@
 
 Semua perubahan aplikasi Android TambakCare. Unduh APK terbaru di halaman [Releases](https://github.com/zhapers/tambakcare-apk/releases/latest).
 
+## v0.2.28 (2026-11-12)
+
+- Akun bisa dihapus sendiri dari Pengaturan. Ketik HAPUS untuk konfirmasi. Kalau sudah lama login, aplikasi minta password lagi.
+- Di bagian Tentang aplikasi ada Kebijakan Privasi, Syarat & Ketentuan, dan Lisensi.
+- Sebelum minta izin notifikasi, aplikasi menjelaskan dulu gunanya.
+- Pesan yang lebih jelas saat batas suhu, pH, salinitas, atau pengaturan Telegram tidak valid.
+
+Update dari dalam aplikasi atau pasang langsung di atas versi lama, tidak perlu uninstall.
+
 ## v0.2.27 (2026-11-11)
 
 - Aturan otomatis satu sakelar tidak lagi bisa ikut terhapus. Ikon jam baru bisa ditekan setelah aturan selesai dimuat.
